@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @morphenie
+- 👋 Hi, I’m Camila
 - 👀 I’m interested in learning, studying, reading, taking care of my pets 🐈📚
 - 🌱 I’m currently learning a lot of stuff
 - 💞️ I’m looking to collaborate on... nothing atm
-- 📫 How to reach me: my social media its _morphenie_ everywhere.
+- 📫 How to reach me: my social media its _@morphenie_ everywhere.
 
 <!---
 morphenie/morphenie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
